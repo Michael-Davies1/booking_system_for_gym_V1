@@ -10,5 +10,7 @@
     </padding>
 
     <Label fx:id="welcomeText" />
-    <Button fx:id="btn_msg" onAction="#pressButton" text="Hello!" />
+    <Button fx:id="create_account" onAction="#signUpButton" text="sign up" />
+   <Button fx:id="account_sign_in" mnemonicParsing="false" onAction="#signInButton" text="sign in" />
+   <Button fx:id="staff_account_sign_in" mnemonicParsing="false" onAction="#staffSignInButton" text="staff sign in" />
 </VBox>
