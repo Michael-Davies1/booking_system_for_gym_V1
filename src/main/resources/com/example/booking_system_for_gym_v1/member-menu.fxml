@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="615.0" prefWidth="858.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.booking_system_for_gym_v1.MemberMenuController">
+   <children>
+      <Button mnemonicParsing="false" prefHeight="44.0" prefWidth="166.0" text="Booked Sessions" />
+   </children>
+</AnchorPane>
